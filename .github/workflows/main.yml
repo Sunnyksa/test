@@ -30,7 +30,7 @@ jobs:
 
       - name: hello world
 
-        run: echo "Yello world, athis is Sunday"
+        run: echo "Yello world, this is SnowTech"
 
         shell: bash
 
